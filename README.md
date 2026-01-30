@@ -1,0 +1,2 @@
+# Ever-Ruleta
+Ruleta aleatoria
